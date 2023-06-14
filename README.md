@@ -15,4 +15,4 @@ Hello World!<br><br>I'm Çiğse who is currently a Computer Engineering student.
 ---
 [![](https://visitcount.itsvg.in/api?id=cigsesgi&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
