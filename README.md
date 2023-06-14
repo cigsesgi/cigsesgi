@@ -15,6 +15,6 @@ Hello World!<br><br>I'm Çiğse who is currently a Computer Engineering student.
 ---
 [![](https://visitcount.itsvg.in/api?id=cigsesgi&icon=0&color=10)](https://visitcount.itsvg.in)
 
-![](https://media.licdn.com/dms/image/D4E16AQEomifxc_BvuA/profile-displaybackgroundimage-shrink_350_1400/0/1686753056078?e=1692230400&v=beta&t=lMDNnGQJ7vVG82OlM30J0Q9LtozaCDS3zcpoiSzo8GU)
+
 
 
