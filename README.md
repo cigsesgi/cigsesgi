@@ -1,5 +1,5 @@
 # 👩‍💻 About Me:
-Hello World!<br><br>I'm Çiğse who is currently a Computer Engineering student.<br><br> I am also the chairman of the IEEE Istinye Student Branch's CS Commitee.<br><br>I am trying to shape my career path, so you can see various projects in different languages ​​on my profile. I'm sure I will find my way.<br>
+Hello World!<br><br>I'm Çiğse who is currently a Computer Engineering student.<br><br> I am also the chairman of the IEEE Istinye Student Branch's CS Commitee.<br><br>I am drawing myself a career path to create a value, so you can see various projects ​​on my profile. I'm sure I will find my way, Or it will find me. <br>
 
 
 ## 🌐 Socials:
